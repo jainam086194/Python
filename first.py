@@ -92,8 +92,3 @@ import re
 # y,x=x,y
 # print(x,y)
 
-"""
-author: Jainam Shah
-created On: 3rd Dec 2024
-where to use: Use of this function is helpful in wriing code without worrying about underlying infrastrucutre
-"""
